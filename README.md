@@ -1,5 +1,3 @@
-# Deep-Learning-MNIST_Handwritten-Digit-Recognition.ipynb
-
 # Handwritten Digit Recognition
 ######
 ---------------------------
