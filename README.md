@@ -40,4 +40,4 @@ jupyter==1.0.0
 ipykernel==4.10.0
 
 # Accuracy
-The model achieved an accuracy over 97.64% tested on `10000` images. It's built from scratch using PyTorch.
+The model achieved an accuracy over 97.64%. It is trained on a GPU, which took me about a minute. If you dont have a GPU powered machine it might take a little longer, you can try reducing the epochs (steps) to reduce computation. Tested on `10000` images. It's built from scratch using PyTorch.
